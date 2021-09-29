@@ -1,0 +1,13 @@
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.exe
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.deps.json
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.json
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.dev.json
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.dll
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.pdb
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfo.cs
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.dll
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.pdb
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.genruntimeconfig.cache
+C:\Users\shelb\source\repos\Unleashed_Test\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csprojAssemblyReference.cache
